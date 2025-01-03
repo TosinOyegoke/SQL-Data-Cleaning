@@ -10,7 +10,7 @@ This project focuses on cleaning store sales data for improved data quality and 
 - **before-cleaning**: Contains the raw data and a list of identified data issues.
 - **after-cleaning**: Holds the cleaned data and a summary of changes made.
 - **scripts**: Contains the SQL code used to clean the data.
-- **images** (optional): Holds any visual representations or screenshots showing "before and after" comparisons.
+- **images**: Holds any visual representations or screenshots showing "before and after" comparisons.
 
 ## Dataset
 
